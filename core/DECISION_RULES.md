@@ -1,98 +1,178 @@
 # Regras de Decisão Comercial (Decision Rules)
+> **Versão**: 0.2 — Núcleo Operacional
 
-Este documento define as regras lógicas e os critérios objetivos de tomada de decisão para a operação comercial da **Eme Creative Hub**. 
-
----
-
-## 🚦 Critérios de Priorização Geral
-Ao tomar qualquer decisão de abordagem, priorize as ações usando a seguinte hierarquia (do mais importante para o menos importante):
-
-1.  **Aderência ao ICP**: O lead deve encaixarse nos perfis descritos em [context/ICP_CONTEXT.md](file:///Users/muriloortega/Desktop/SITES/agentecomercial/agentecomercial/context/ICP_CONTEXT.md).
-2.  **Sinal de Necessidade**: Indícios de que o lead está ativamente com problemas de design, comunicação ou aquisição.
-3.  **Contexto Real**: Informações verificáveis (posts, site, vagas) para ancorar o papo.
-4.  **Potencial de Relacionamento**: Leads propensos a parcerias de longo prazo.
-5.  **Probabilidade de Resposta**: Canais ativos e tom de voz compatível.
-6.  **Valor Potencial**: Ticket médio estimado do contrato.
-7.  **Esforço Operacional**: Menor atrito ou tempo gasto pelo fundador.
+Define os critérios objetivos de tomada de decisão para a operação comercial da **Eme Creative Hub**. Estas regras complementam os princípios constitucionais de [core/SYSTEM_PROMPT.md](SYSTEM_PROMPT.md).
 
 ---
 
-## 🔍 Regras de Pesquisa e Abordagem
+## 🚦 Hierarquia de Priorização Geral
 
-### Quando pesquisar mais antes de abordar:
-*   Se o lead for de nível de prioridade alto (Tier 1) no ICP.
-*   Se o perfil do decisor nas redes sociais for ativo e contiver publicações complexas sobre a sua área de atuação.
-*   Se não houver nenhum sinal de necessidade óbvio no site ou rede social da empresa.
+Ao avaliar qualquer decisão de abordagem, use esta ordem (mais importante primeiro):
 
-### Quando um lead NÃO deve ser abordado:
-*   Se for um concorrente direto ou parceiro comercial muito próximo de clientes atuais.
-*   Se não possuir aderência mínima ao ICP (ex: porte pequeno demais ou segmento desqualificado).
-*   Se o site da empresa estiver fora do ar por abandono ou a marca estiver inativa nas redes sociais há mais de 6 meses.
-*   Se o decisor tiver um perfil explicitamente marcado com "Não aceito mensagens comerciais/parcerias".
-
-### Quando personalizar manualmente:
-*   Para leads de alto valor estimado (Tier 1).
-*   Quando o lead postar uma dúvida, problema ou desabafo real que se conecte com a oferta da Eme Creative Hub.
-
-### Quando utilizar estrutura com template adaptável:
-*   Para leads de prioridade média (Tier 2) onde a dor e o segmento são padronizados.
-*   Nos fluxos de follow-ups iniciais da cadência comercial.
+1. Aderência ao ICP — ver [context/ICP_CONTEXT.md](../context/ICP_CONTEXT.md).
+2. Sinal de necessidade verificável — post, site, vaga, problema observável.
+3. Contexto real disponível para ancorar a conversa.
+4. Potencial de relacionamento de longo prazo.
+5. Probabilidade de resposta (canal ativo, tom compatível).
+6. Valor potencial estimado do contrato.
+7. Esforço operacional do fundador.
 
 ---
 
-## 💬 Regras de Acompanhamento (Follow-Up)
+## 🔍 Regras de Pesquisa, Qualificação e Abordagem
 
-### Quando fazer follow-up:
-*   Se o lead visualizou a mensagem anterior de abordagem e não respondeu após 3 dias úteis.
-*   Se a conversa foi pausada no meio do fluxo de qualificação e o lead não deu retorno após 4 dias úteis.
+### Desqualificar imediatamente se:
+- É concorrente direto ou parceiro próximo de cliente atual.
+- Não atinge aderência mínima ao ICP (porte, segmento ou decisor inadequado).
+- Site abandonado ou marca inativa há mais de 6 meses sem explicação.
+- Perfil do decisor tem indicação explícita de não aceitar abordagens comerciais.
+- Presença de Red Flag crítico listado em [context/ICP_CONTEXT.md](../context/ICP_CONTEXT.md).
 
-### Quando encerrar uma cadência de contato:
-*   Após o envio de 3 tentativas de follow-up (totalizando 4 mensagens enviadas) sem qualquer resposta do lead.
-*   Imediatamente se o lead responder com um sinal claro de desinteresse (ex: "Não temos interesse", "Já temos fornecedor").
-*   Se o lead responder de forma grosseira ou demonstrar incompatibilidade cultural com a Eme Creative Hub.
+### Colocar em Nutrição (sem abordar agora) se:
+- Aderência ao ICP é média, mas não há sinal de necessidade verificável no momento.
+- Lead está em movimento visível (lançamento, contratações) que sugere timing ruim para abordagem.
+- Já foi abordado nos últimos 60 dias sem resposta, mas sem sinal de desinteresse explícito.
+
+### Realizar pesquisa adicional antes de abordar se:
+- Lead é Tier 1 e o gancho de conversa ainda não está claro.
+- O decisor tem publicações complexas que podem indicar objeções ou preferências específicas.
+- Não há sinal de necessidade óbvio — pesquisar antes de concluir que não há necessidade.
+
+> **Regra crítica**: não encontrar um sinal de necessidade **não significa** que o lead possui uma necessidade. Significa apenas que não há evidência suficiente. Lacuna de informação ≠ conclusão comercial.
+
+### Abordar quando:
+- Aderência ao ICP é alta (Tier 1) ou média com sinal de necessidade claro (Tier 2).
+- Existe ao menos um elemento verificável e relevante para personalizar a mensagem.
+- O decisor tem canal ativo acessível para abordagem.
+
+### Priorizar abordagem manual e personalização profunda quando:
+- Lead é Tier 1 com alto valor estimado.
+- Existe dor ou sinal de necessidade específico e urgente observável.
+- Lead publicou questionamento, problema ou dúvida conectável à oferta da Eme.
+
+### Usar template como estrutura (nunca como substituto de contexto) quando:
+- Tier 2 com dor e segmento padronizados e um elemento verificável disponível.
+- Fluxos de follow-up depois do primeiro contato personalizado.
+
+> **Regra**: templates estruturam mensagens, mas nunca substituem contexto real. Toda abordagem precisa conter ao menos um elemento verificável e relevante. Leads com aderência insuficiente não devem ser abordados — apenas nutridos, reavaliados ou desqualificados. **Nenhuma mensagem deve ser enviada apenas para aumentar volume**.
 
 ---
 
-## ⚙️ Regras de Automação vs. Processo Manual
+## 💬 Regras de Follow-Up
 
-### Quando automatizar uma tarefa:
-*   Se a tarefa comercial for executada de forma idêntica pelo menos 10 vezes seguidas sem falhas.
-*   Se o tempo gasto na execução manual da tarefa superar 3 horas semanais.
-*   Se o risco de erro humano na transferência de dados entre sistemas (ex: copiar dados do Instagram para o CRM) for crítico.
+### Fazer follow-up quando:
+- Lead visualizou a mensagem e não respondeu após 3 dias úteis.
+- Conversa pausada sem retorno do lead após 4 dias úteis.
+- Surgiu novo contexto relevante (post, lançamento, vaga) que justifica retomada.
 
-### Quando manter uma tarefa comercial manual:
-*   A redação inicial da primeira mensagem de abordagem (outreach).
-*   A qualificação final e scoring de leads de alta prioridade.
-*   Qualquer interação direta de negociação de proposta e fechamento de contrato.
+### Interromper follow-up imediatamente quando:
+- Lead sinalizou desinteresse explícito ("Não temos interesse", "Já temos fornecedor").
+- Lead foi grosseiro ou demonstrou incompatibilidade cultural.
 
----
+### Encerrar a cadência (break-up message) após:
+- 3 tentativas de follow-up sem resposta (4 mensagens no total).
 
-## 📈 Regras de Estratégia de Conteúdo e SEO
-
-### Quando criar conteúdo de apoio em vez de fazer outbound:
-*   Quando identificarmos que os leads estão travando na etapa de "Diagnóstico" por falta de confiança na autoridade técnica da Eme Creative Hub.
-*   Para responder de forma recorrente a uma mesma objeção levantada por mais de 3 leads diferentes no pipeline.
-
-### Quando priorizar SEO local e autoridade orgânica no Google:
-*   Se identificarmos alta intenção de busca para os serviços de design/criatividade no nicho de atuação da Eme Creative Hub na região alvo.
-*   Como suporte de credibilidade online (prova social) para leads que pesquisarem a marca após a abordagem no Instagram.
+### Retomar contato (após encerramento) quando:
+- Surgir sinal novo e verificável de necessidade (lançamento, nova vaga, post sobre problema relevante).
+- Passou um ciclo de 60 dias e o contexto mudou — registrar como novo contato.
 
 ---
 
-## 🧪 Regras de Gestão de Oferta, ICP e Experimentos
+## ⚙️ Regras de Automação vs. Manual
 
-### Quando alterar a oferta:
-*   Se mais de 5 leads qualificados recusarem a proposta comercial alegando exatamente o mesmo problema de escopo, prazo ou formato.
-*   Se a taxa de conversão de Diagnóstico para Proposta estiver abaixo de 10% durante 30 dias.
+### Manter manual obrigatoriamente:
+- Redação da primeira mensagem de abordagem (outreach).
+- Qualificação final e scoring de leads Tier 1.
+- Qualquer negociação de proposta e fechamento de contrato.
+- Envio de qualquer mensagem a leads ou clientes.
 
-### Quando alterar o ICP:
-*   Se após abordar 30 leads de um nicho específico, obtivermos 0% de respostas positivas ou reuniões agendadas.
-*   Se os clientes fechados no segmento atual apresentarem margem de lucro baixa ou alto atrito de entrega de serviços.
+### Semiautomatizar (rascunho automático + revisão humana) quando:
+- Tarefa ocorre diariamente com lógica previsível.
+- O risco de erro é baixo e o tempo de revisão é menor que a execução manual.
 
-### Quando abandonar um experimento:
-*   Se o volume mínimo de leads testados for atingido (ex: 20 leads) e a métrica de sucesso ficar abaixo do limite tolerável definido no template do experimento.
-*   Se o experimento gerar atrito operacional severo que consuma mais de 2 horas diárias do fundador.
+### Automatizar quando:
+- Processo foi executado manualmente com sucesso ≥ 10 vezes seguidas.
+- Tempo manual supera 3 horas semanais.
+- Risco de erro humano na transferência de dados é crítico.
+- Automação inclui log de erros e ponto de revisão humana antes de qualquer ação externa.
 
-### Quando escalar um experimento:
-*   Se o experimento superar a métrica de sucesso (ex: taxa de resposta positiva > 30%) com o volume mínimo de amostragem.
-*   A escala deve ocorrer transformando o experimento em um novo Playbook ou atualizando um Playbook existente em [playbooks/](file:///Users/muriloortega/Desktop/SITES/agentecomercial/agentecomercial/playbooks/).
+---
+
+## 📐 Princípio do Sistema Mínimo Necessário
+
+Antes de adicionar qualquer complexidade (ferramenta, campo, etapa, automação, dashboard), o agente deve responder:
+
+1. **Qual problema real isso resolve?**
+2. **Esse problema já ocorre com frequência suficiente para justificar a solução?**
+3. **Existe solução manual mais simples que funciona?**
+4. **O benefício compensa o custo de manutenção e o risco?**
+5. **Como saberemos se foi útil?**
+
+Se não houver resposta clara para todas as perguntas, não adicionar complexidade.
+
+**Evitar prematuramente**:
+- CRM sofisticado antes de existir volume suficiente.
+- Dashboard antes de existir dado confiável.
+- Automação antes de processo manual validado.
+- Muitas variações de teste antes de validar a hipótese básica.
+- SEO programático antes de validar oferta e intenção de busca.
+- Enriquecimento excessivo de dados que não afetam decisões.
+- Novos campos, ferramentas ou etapas sem uso claro e imediato.
+
+---
+
+## 📈 Regras de SEO, Conteúdo e Pipeline
+
+### Criar conteúdo de apoio (em vez de ou além do outbound) quando:
+- Leads travam no diagnóstico por falta de autoridade percebida da Eme.
+- A mesma objeção aparece em ≥ 3 conversas diferentes no pipeline.
+
+### Converter dúvida recorrente em página de SEO quando:
+- A mesma dúvida aparece em ≥ 3 conversas E existe intenção de busca verificável no Google.
+- A página resolve a dúvida de forma completa e posiciona a Eme como referência no nicho.
+
+### Priorizar SEO local e autoridade orgânica quando:
+- Existe alta intenção de busca para os serviços da Eme no nicho-alvo.
+- Leads da prospecção ativa pesquisam a marca antes de responder.
+
+---
+
+## 🧪 Níveis de Evidência para Experimentos
+
+Substituem expressões vagas como "volume estatisticamente relevante". Calibrados para operação pequena.
+
+| Nível | Definição | O que indica |
+|---|---|---|
+| **Sinal inicial** | Resultado promissor, mas em amostra pequena (< 10 leads). | Continuar testando, não concluir. |
+| **Evidência operacional** | Padrão repetido em amostra pequena (10–20 leads). | Suficiente para continuar e refinar. |
+| **Evidência forte** | Resultado consistente em diferentes ciclos ou grupos (≥ 20 leads em ≥ 2 ciclos). | Pode virar playbook. |
+| **Pronto para escala** | Resultado mantém qualidade após aumento controlado de volume. | Escalar com monitoramento. |
+
+### Critérios para escalar um experimento (todos necessários):
+
+- [ ] Taxa de resposta acima do threshold definido.
+- [ ] Qualidade das respostas — conversas reais, não educadas.
+- [ ] Avanço no pipeline — leads chegam a reunião ou proposta.
+- [ ] Aderência das oportunidades — fits reais, não qualificados a força.
+- [ ] Esforço manual dentro do limite do fundador.
+- [ ] Sem impacto negativo observável na reputação.
+- [ ] Capacidade operacional disponível para absorver o volume.
+
+### Abandonar um experimento quando:
+- Volume mínimo atingido e a métrica de sucesso ficou abaixo do threshold definido no [templates/EXPERIMENT_TEMPLATE.md](../templates/EXPERIMENT_TEMPLATE.md).
+- Atrito operacional severo (> 2h diárias do fundador).
+- Impacto negativo observável na reputação ou nas relações.
+
+---
+
+## 🧩 Regras de Evolução Estratégica
+
+### Propor mudança de oferta quando:
+- ≥ 5 leads qualificados recusaram a proposta com a mesma objeção de escopo, prazo ou formato.
+- Taxa de conversão Diagnóstico → Proposta abaixo de 10% por 30 dias consecutivos.
+
+### Propor mudança de ICP quando:
+- ≥ 30 leads de um nicho abordados com 0% de respostas positivas ou reuniões.
+- Clientes do segmento atual apresentam margem baixa ou alto atrito de entrega.
+
+> Mudanças de ICP ou oferta requerem aprovação prévia do fundador (Nível 3 de autonomia). Ver [core/EXECUTION_PROTOCOL.md § Matriz de Autonomia](EXECUTION_PROTOCOL.md).
