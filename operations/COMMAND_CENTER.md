@@ -18,18 +18,23 @@
 
 *(Alimentado por consultas oficiais ao HubSpot — sem duplicidade local)*
 
-- **Contatos Criados:** 0 (Início da Sprint 01)
-- **Empresas Criadas:** 0
+- **Contatos Criados:** 20 (decisores nominais verificados)
+- **Empresas Criadas:** 53 (Rodadas 1+2+3+4 — meta original de 15 amplamente superada com aprovação do fundador; Rodada 4 via Vibe Prospecting/Explorium)
 - **Negócios Ativos:** 0
-- **Leads em Pesquisa:** 0 / Meta: 15
-- **Leads Qualificados:** 0
-- **Leads Prontos para Abordagem:** 0 / Meta: 5 a 10
-- **Valor Total do Pipeline:** R$ 0,00
+- **Leads em Pesquisa:** 53
+- **Leads Qualificados:** ~47 (score ≥ 50, estimativa — 23 verificados individualmente nas Rodadas 1-3 + 24 da Rodada 4 com score firmográfico) — 4 em nutrição (score 45-49) — 2 desqualificados (Grifa Engenharia; Nova Era Consultoria, CNPJ possivelmente baixado)
+- **Leads Prontos para Abordagem:** 8 (rascunho de abordagem redigido e salvo como Note): UP Real Estate, Ação Engenharia, Vivus Engenharia, Siah Arquitetos, L Rocha Contabilidade, Odontocare Premium, São José Negócios Imobiliários, Agência Flagship
+- **Valor Total do Pipeline:** R$ 0,00 (nenhum Deal aberto ainda)
+- **Créditos Vibe Prospecting:** 40 gastos (35 export + 5 show-sample) — 160 restantes
+
+### Top 5 Geral (score)
+UP Real Estate (78) · Ação Engenharia (76) · Vivus Engenharia (74) · São José Negócios Imobiliários (71) · Siah Arquitetos / Agência Flagship (70, empate)
 
 ### Leads por Canal Recomendado
-- **Instagram Direct (Manual):** 0
-- **E-mail Individual (Gmail):** 0
+- **Instagram Direct (Manual):** 5 (Siah Arquitetos, Odontocare Premium, Cotī Arquitetura, Sky Arquitetura, Clínica Leilane Catricala)
+- **E-mail Individual (Gmail):** 22 (todos os demais leads qualificados/nutrição)
 - **Sequência de E-mail (HubSpot):** 0
+- **Não abordar (desqualificados):** 2 (Grifa Engenharia, Nova Era Consultoria)
 
 ---
 
