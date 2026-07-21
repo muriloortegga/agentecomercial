@@ -1,115 +1,89 @@
-# Pipeline de Vendas e Funil Comercial (Commercial Pipeline)
+# Pipeline de Vendas e Funil Comercial no HubSpot (Commercial Pipeline)
 
-Este documento define a estrutura operacional de 14 etapas do funil de vendas da **Eme Creative Hub**. Cada etapa possui regras estritas de entrada, saída e prazos para manter a higiene do CRM.
+Este documento define a estrutura do funil de vendas da **Eme Creative Hub** sincronizada com o **HubSpot**. Cada etapa possui critérios de entrada, saída, campos obrigatórios e automações de tarefas.
 
 ---
 
-## 🏗️ As 14 Etapas do Pipeline de Vendas
+## 🏗️ As Etapas do Pipeline de Vendas no HubSpot
 
-### 1. Lead Descoberto
-*   **Objetivo**: Adicionar potenciais clientes mapeados ao pipeline.
-*   **Critério de Entrada**: Possuir o nome da marca e um link para site ou rede social.
-*   **Critério de Saída**: O agente iniciar a pesquisa detalhada do lead.
-*   **Campos Obrigatórios**: Nome do Lead, Link de Origem, Status.
-*   **Prazo Recomendado**: Até 2 dias nesta etapa.
+### 1. Lead Descoberto (Subscriber / Prospect)
+*   **Objetivo**: Registrar o mapeamento inicial de uma empresa ou profissional com potencial aderência ao ICP.
+*   **Critério de Entrada**: Nome da empresa/decisor e ao menos um link verificado (Instagram, LinkedIn ou Site).
+*   **Critério de Saída**: Início da pesquisa detalhada de contexto e necessidades.
+*   **Registro no CRM**: Cadastro básico do objeto *Contact* e *Company* no HubSpot.
 
-### 2. Lead Pesquisado
-*   **Objetivo**: Entender o perfil do lead com base em fatos e inferências.
-*   **Critério de Entrada**: Início do preenchimento da pesquisa de acordo com [playbooks/LEAD_RESEARCH.md](file:///Users/muriloortega/Desktop/SITES/agentecomercial/agentecomercial/playbooks/LEAD_RESEARCH.md).
-*   **Critério de Saída**: Conclusão da pesquisa com dados gravados no perfil.
-*   **Campos Obrigatórios**: Nome do Decisor, Cargo, Sinais de Necessidade.
-*   **Prazo Recomendado**: Até 3 dias.
+### 2. Lead Pesquisado (Lead)
+*   **Objetivo**: Entender o contexto real da empresa com base em fatos e inferências fundamentadas.
+*   **Critério de Entrada**: Início da coleta de informações em fontes públicas (Instagram, Google, LinkedIn).
+*   **Critério de Saída**: Preenchimento dos sinais de necessidade e capacidade.
+*   **Campos no CRM**: Cargo do Decisor, Sinais de Necessidade, Sinais de Capacidade.
 
-### 3. Lead Qualificado
-*   **Objetivo**: Validar a aderência do lead ao ICP da empresa.
-*   **Critério de Entrada**: Pesquisa concluída com sucesso.
-*   **Critério de Saída**: Verificação de Red Flags concluída.
-*   **Campos Obrigatórios**: Aprovação de Qualificação (Sim/Não).
-*   **Prazo Recomendado**: Até 1 dia.
+### 3. Lead Qualificado (Marketing Qualified Lead - MQL)
+*   **Objetivo**: Validar a aderência ao ICP Nacional ou Internacional Assíncrono da Eme.
+*   **Critério de Entrada**: Pesquisa de contexto concluída e ausência de Red Flags impeditivas.
+*   **Critério de Saída**: Cálculo do Score do lead (0 a 100).
+*   **Campos no CRM**: Status de Qualificação, Confirmação do ICP.
 
-### 4. Lead Priorizado
-*   **Objetivo**: Calcular o Score e classificar o lead em Tiers.
-*   **Critério de Entrada**: Lead validado como qualificado (sem Red Flags ativos).
-*   **Critério de Saída**: Score de 0 a 100 calculado e registrado.
-*   **Campos Obrigatórios**: Score Final.
-*   **Prazo Recomendado**: Até 1 dia.
+### 4. Lead Priorizado (Sales Qualified Lead - SQL)
+*   **Objetivo**: Definir o canal recomendado e preparar a abordagem consultiva.
+*   **Critério de Entrada**: Score calculado e classificação no Tier 1 ou Tier 2.
+*   **Critério de Saída**: Rascunho da abordagem redigido e registrado como nota/rascunho no CRM.
+*   **Campos no CRM**: Score Final, Canal Recomendado, Rascunho da Abordagem.
 
-### 5. Aquecimento (Warm-up)
-*   **Objetivo**: Criar conexões orgânicas pré-abordagem.
-*   **Critério de Entrada**: Lead com Score > 50 movido para fila de abordagem.
-*   **Critério de Saída**: Execução de curtidas, follows ou respostas de Stories.
-*   **Campos Obrigatórios**: Data de início do aquecimento.
-*   **Prazo Recomendado**: De 3 a 5 dias.
+### 5. Aquecimento / Abordagem Preparada (Opportunity Created)
+*   **Objetivo**: Apresentar a abordagem personalizada para aprovação do fundador.
+*   **Critério de Entrada**: Mensagem consultiva pronta para revisão.
+*   **Critério de Saída**: Aprovação formal do fundador para envio (via Direct manual ou E-mail).
+*   **Campos no CRM**: Status de Aprovação, Data Limite de Revisão.
 
-### 6. Primeiro Contato (Outreach)
-*   **Objetivo**: Enviar a primeira mensagem de abordagem consultiva.
-*   **Critério de Entrada**: Finalização do período de aquecimento.
-*   **Critério de Saída**: Mensagem enviada e registrada no CRM.
-*   **Campos Obrigatórios**: Texto da abordagem enviada, Data do Envio.
-*   **Prazo Recomendado**: Envio imediato ao entrar na etapa.
+### 6. Primeiro Contato Realizado (Outreach Sent)
+*   **Objetivo**: Enviar a abordagem aprovada e aguardar retorno.
+*   **Critério de Entrada**: Confirmação do envio manual do Direct ou disparo do e-mail.
+*   **Critério de Saída**: Registro da mensagem enviada na linha do tempo do HubSpot.
+*   **Campos no CRM**: Data de Envio, Canal Utilizado, Tarefa de Follow-up agendada.
 
-### 7. Conversa Iniciada
-*   **Objetivo**: Estimular a resposta do lead e iniciar diálogo genuíno.
-*   **Critério de Entrada**: Resposta positiva ou neutra do lead ao primeiro contato.
-*   **Critério de Saída**: Identificação de que o lead possui uma dor que a Eme resolve.
-*   **Campos Obrigatórios**: Data da resposta do lead, Próxima Ação.
-*   **Prazo Recomendado**: Responder em até 4 horas úteis após a mensagem do lead.
+### 7. Conversa Iniciada (In Discussion)
+*   **Objetivo**: Conduzir o diálogo consultivo focado nos problemas de marca e posicionamento do lead.
+*   **Critério de Entrada**: Resposta positiva ou neutra do lead.
+*   **Critério de Saída**: Identificação de dor clara e abertura para diagnóstico/proposta.
+*   **Campos no CRM**: Histórico de Interações, Dor Principal Identificada.
 
-### 8. Diagnóstico (Qualificação Ativa)
-*   **Objetivo**: Entender a fundo os problemas criativos do lead e avaliar o momento.
-*   **Critério de Entrada**: Conversa ativa fluindo no direct ou WhatsApp.
-*   **Critério de Saída**: Convite aceito para chamada de diagnóstico de 10 a 15 minutos.
-*   **Campos Obrigatórios**: Data agendada para a chamada, Principais Dores Documentadas.
-*   **Prazo Recomendado**: Até 5 dias nesta etapa.
+### 8. Proposta / Apresentação de Ativos (Proposal Sent)
+*   **Objetivo**: Apresentar o escopo da oferta (Ecossistema de Marca, Identidade Visual, Site ou Ativos) e proposta financeira.
+*   **Critério de Entrada**: Alinhamento inicial de necessidades realizado.
+*   **Critério de Saída**: Envio oficial da proposta formalizada.
+*   **Campos no CRM**: Valor do Negócio (mínimo R$ 1.000, médio R$ 2.000), Data de Validade da Proposta.
 
-### 9. Reunião Agendada
-*   **Objetivo**: Realizar a chamada de alinhamento e levantamento de briefing.
-*   **Critério de Entrada**: Chamada marcada na agenda do fundador.
-*   **Critério de Saída**: Chamada realizada com sucesso.
-*   **Campos Obrigatórios**: Resumo do Briefing.
-*   **Prazo Recomendado**: Ocorrer em até 7 dias úteis.
+### 9. Negociação (In Negotiation)
+*   **Objetivo**: Ajustar condições de pagamento, parcelamento e escopo dentro do contrato.
+*   **Critério de Entrada**: Proposta analisada pelo cliente com abertura para contratação.
+*   **Critério de Saída**: Aceite dos termos ou encerramento da negociação.
+*   **Campos no CRM**: Condições de Pagamento Negociadas, Tarefa de Follow-up Ativa.
 
-### 10. Proposta Comercial
-*   **Objetivo**: Desenhar a proposta personalizada e o escopo financeiro.
-*   **Critério de Entrada**: Reunião de briefing realizada.
-*   **Critério de Saída**: Apresentação/PDF de proposta enviado ao cliente.
-*   **Campos Obrigatórios**: Valor da Proposta, Data de Validade da Proposta.
-*   **Prazo Recomendado**: Enviar em até 3 dias úteis após a reunião.
+### 10. Ganho / Fechado (Closed Won)
+*   **Objetivo**: Formalizar a contratação e iniciar entregas graduais.
+*   **Critério de Entrada**: Contrato formal assinado e sinal de pagamento confirmado.
+*   **Critério de Saída**: Transição para a rotina de produção e entrega de ativos.
+*   **Campos no CRM**: Valor Final do Contrato, Data de Assinatura, Link do Contrato.
 
-### 11. Negociação
-*   **Objetivo**: Ajustar termos contratuais, escopos e formas de pagamento.
-*   **Critério de Entrada**: Proposta enviada e aberta para debate.
-*   **Critério de Saída**: Acordo verbal fechado ou recusa final do lead.
-*   **Campos Obrigatórios**: Data de Follow-up ativa.
-*   **Prazo Recomendado**: Até 10 dias de negociação ativa.
+### 11. Perdido (Closed Lost)
+*   **Objetivo**: Registrar perdas e extrair aprendizados operacionais.
+*   **Critério de Entrada**: Recusa formal ou interrupção definitiva das interações.
+*   **Critério de Saída**: Arquivamento com motivo obrigatório.
+*   **Campos no CRM**: Motivo de Perda (Closed Lost Reason), Aprendizado Registrado.
 
-### 12. Ganho (Won)
-*   **Objetivo**: Iniciar onboarding do novo cliente e faturamento.
-*   **Critério de Entrada**: Contrato assinado ou primeiro pagamento compensado.
-*   **Critério de Saída**: Passagem do cliente para o time de entrega (Designers/Freelancers).
-*   **Campos Obrigatórios**: Valor do Contrato Fechado, Data de Início.
-*   **Prazo Recomendado**: Imediato.
-
-### 13. Perdido (Lost)
-*   **Objetivo**: Rastrear perdas e extrair aprendizados operacionais.
-*   **Critério de Entrada**: Lead recusa a proposta ou silencia na cadência completa de follow-up.
-*   **Critério de Saída**: Arquivamento da oportunidade.
-*   **Campos Obrigatórios**: Motivo de Perda, Aprendizado Obtido.
-*   **Prazo Recomendado**: Imediato.
-
-### 14. Nutrição (Nurturing)
-*   **Objetivo**: Manter contato passivo enviando insights em intervalos longos.
+### 12. Nutrição (Nurturing)
+*   **Objetivo**: Manter relacionamento de longo prazo sem pressão comercial.
 *   **Critério de Entrada**: Lead qualificado sem timing de compra no momento.
-*   **Critério de Saída**: Lead demonstrar interesse ativo novamente e voltar para "Conversa Iniciada".
-*   **Campos Obrigatórios**: Intervalo de Contato (ex: a cada 30 dias).
-*   **Prazo Recomendado**: Sem prazo (fluxo contínuo).
+*   **Critério de Saída**: Reabertura de contato direto para novo diagnóstico.
+*   **Campos no CRM**: Frequência de Nutrição, Último Conteúdo Compartilhado.
 
 ---
 
-## 🚫 Motivos de Perda Padronizados (Lost Reasons)
-Ao mover um lead para a etapa **Perdido**, selecione obrigatoriamente um destes motivos:
-1.  *Sem orçamento (Price)*: O lead achou o valor acima de sua capacidade financeira.
-2.  *Sem timing/Urgência*: O lead tem interesse, mas priorizou outros investimentos no momento.
-3.  *Parceria existente*: O lead já possui uma agência ou designer que atende perfeitamente.
-4.  *Sem resposta (Silenciou)*: O lead parou de responder durante a negociação ou cadência de follow-up.
-5.  *Perfil inadequado (Anti-ICP)*: Identificamos Red Flags graves após iniciada a conversa.
+## 🚫 Motivos de Perda no HubSpot (Closed Lost Reasons)
+
+1.  **Sem Orçamento (Price)**: Orçamento abaixo do ticket mínimo de R$ 1.000.
+2.  **Sem Timing / Sem Urgência**: Lead com interesse, mas prioridades operacionais vigentes.
+3.  **Fornecedor Atual Satisfatório**: Lead atendido por agência/designer interno sem intenção de mudança.
+4.  **Silenciou / Sem Resposta**: Ausência de retorno após cadência completa de follow-ups.
+5.  **Desqualificado (Anti-ICP)**: Identificação posterior de Red Flags graves ou des alinhamento cultural.

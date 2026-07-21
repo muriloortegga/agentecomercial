@@ -1,37 +1,54 @@
-# Rotina Comercial Diária (Daily Routine)
+# Rotinas Diárias Comerciais com HubSpot (Daily Routine)
 
-Este documento define a rotina comercial recomendada para o fundador da **Eme Creative Hub**. A chave do sucesso comercial não é o volume esporádico, mas a consistência diária de baixo esforço.
-
----
-
-## ⏱️ Três Versões da Rotina Diária
-
-Escolha a versão da rotina comercial de acordo com a sua disponibilidade de tempo no dia:
-
-### 🟢 Versão 15 Minutos (Manutenção Crítica)
-Foco em manter os leads ativos quentes e não perder oportunidades em andamento.
-*   **Minuto 1 a 5 (Responder Conversas)**: Responda a todas as mensagens ativas e dúvidas recebidas no direct do Instagram ou WhatsApp.
-*   **Minuto 6 a 12 (Revisar e Enviar Follow-ups)**: Veja quais leads silenciaram e estão na data de follow-up no CRM. Envie mensagens rápidas de valor baseadas em [playbooks/FOLLOW_UP.md](file:///Users/muriloortega/Desktop/SITES/agentecomercial/agentecomercial/playbooks/FOLLOW_UP.md).
-*   **Minuto 13 a 15 (Atualizar CRM)**: Mova os leads que responderam ou esfriaram nas colunas do pipeline.
-
-### 🟡 Versão 30 Minutos (Operação Padrão - Recomendada)
-Mantém o pipeline girando, trazendo novos leads para a boca do funil.
-*   **Minuto 1 a 10 (Responder e Follow-up)**: Limpe as mensagens pendentes e execute os acompanhamentos programados para o dia.
-*   **Minuto 11 a 20 (Pesquisa e Qualificação)**: Pesquise de 2 a 3 leads novos na lista e faça o scoring rápido de priorização.
-*   **Minuto 21 a 25 (Aquecimento)**: Interaja (curtidas, comentários ou follows) nos perfis dos novos leads pesquisados.
-*   **Minuto 26 a 30 (Abordagem/Outreach)**: Envie a primeira mensagem de aproximação personalizada para 1 ou 2 leads aquecidos.
-
-### 🔴 Versão 60 Minutos (Expansão e Inteligência)
-Ideal para dias com maior disponibilidade de tempo para análise estratégica.
-*   **Minuto 1 a 15 (Responder e Follow-up)**: Atendimento completo a leads ativos e acompanhamentos pendentes.
-*   **Minuto 16 a 35 (Pesquisa Aprofundada)**: Mapeie até 5 novos leads, documentando fatos e inferências detalhadas de dores.
-*   **Minuto 36 a 45 (Aquecimento e Interação)**: Engajamento com os perfis nas redes sociais.
-*   **Minuto 46 a 55 (Novas Abordagens)**: Redija e envie até 3 mensagens personalizadas.
-*   **Minuto 56 a 60 (Registro e Aprendizado)**: Escreva as lições de perdas no [logs/LEARNING_LOG.md](file:///Users/muriloortega/Desktop/SITES/agentecomercial/agentecomercial/logs/LEARNING_LOG.md) e anote melhorias para os playbooks.
+Este documento estabelece o protocolo de execução das rotinas diárias da **Eme Creative Hub**, variando de acordo com o tempo disponível informado pelo fundador (15, 30 ou 60 minutos) e utilizando o **HubSpot** como painel de dados.
 
 ---
 
-## 🎯 Regras de Consistência
-1.  **Não pule 2 dias seguidos**: É melhor fazer a rotina de 15 minutos do que não fazer nada. A falta de consistência quebra o algoritmo de engajamento do Instagram e resfria as conversas de vendas.
-2.  **Primeiro os quentes, depois os frios**: Nunca gaste tempo buscando leads novos se você tem mensagens de potenciais clientes pendentes de resposta na caixa de entrada.
-3.  **Foco em Execução, Sem Distrações**: Durante os minutos da rotina comercial, não navegue no feed do Instagram de forma passiva. Entre apenas nos perfis dos leads mapeados.
+## 🎯 Ordem Absoluta de Prioridades
+
+Independentemente do tempo disponível, o agente e o fundador devem seguir sempre esta hierarquia de atenção:
+
+1.  **Respostas Recebidas**: Atender imediatamente leads que responderam e-mails ou Directs (Conversas Ativas).
+2.  **Oportunidades em Negociação**: Acompanhar propostas enviadas e negociações em andamento.
+3.  **Follow-ups / Tarefas Vencidas no HubSpot**: Executar tarefas de retorno agendadas que atingiram a data limite.
+4.  **Leads Qualificados Prontos para Abordagem**: Revisar e aprovar rascunhos de mensagens para envio.
+5.  **Pesquisa de Novos Leads**: Minerar e qualificar novos perfis (somente após concluir as etapas 1 a 4).
+
+---
+
+## ⏱️ 1. Rotina de 15 Minutos (Manutenção & Respostas)
+
+Foco exclusivo em desbloquear conversas e manter a higiene do CRM:
+
+1.  **Revisar Respostas (5 min)**: Verificar se há novas mensagens de leads no Instagram Direct ou Gmail e rascunhar respostas no HubSpot.
+2.  **Revisar Tarefas Vencidas no HubSpot (5 min)**: Checar e executar até 2 tarefas de follow-up prioritárias.
+3.  **Atualizar o CRM (5 min)**: Registrar as ações realizadas e atualizar os status das oportunidades no HubSpot.
+
+---
+
+## ⏱️ 2. Rotina de 30 Minutos (Operação Tática Padrão)
+
+Foco em avançar conversas e aprovar novas abordagens:
+
+1.  **Revisar Respostas e Tarefas (10 min)**: Atender conversas ativas no Gmail/Direct e concluir tarefas do dia no HubSpot.
+2.  **Validar & Qualificar Leads (10 min)**: Revisar de 2 a 3 novos perfis pesquisados e validar o score calculado.
+3.  **Aprovar / Enviar Abordagens (10 min)**: Revisar e autorizar o envio de até 3 abordagens rascunhadas no HubSpot, registrando as tarefas de acompanhamento.
+
+---
+
+## ⏱️ 3. Rotina de 60 Minutos (Expansão & Crescimento)
+
+Foco em prospectar novos leads, analisar métricas e gerar inteligência:
+
+1.  **Revisar Pipeline & Respostas (15 min)**: Limpar a fila de respostas, realizar follow-ups vencidos e checar o pipeline no HubSpot.
+2.  **Pesquisar & Enriquecer Leads (20 min)**: Executar mineração ativa de 3 a 5 novos leads (via Vibe Prospecting, Apollo, Instagram ou Google) e cadastrar no HubSpot.
+3.  **Preparar Abordagens Consultivas (15 min)**: Redigir rascunhos de mensagens altamente contextualizadas para os novos leads qualificados.
+4.  **Análise & Atualização do Command Center (10 min)**: Revisar os gargalos da sprint e atualizar o arquivo [operations/COMMAND_CENTER.md](COMMAND_CENTER.md).
+
+---
+
+## 📊 Regra de Fechamento da Rotina
+
+Ao final de qualquer sessão diária, a última ação do agente ou operador deve ser:
+*   Garantir que 100% dos leads movimentados possuam **Próxima Melhor Ação** e **Data de Follow-up** atualizadas no HubSpot.
+*   Apresentar ao fundador um resumo objetivo contendo o que foi realizado e quais ações aguardam aprovação.
