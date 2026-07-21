@@ -1,255 +1,149 @@
 # Contexto das Ofertas — Eme Creative Hub
 
-Este documento organiza uma arquitetura inicial de ofertas. Valores, prazos e capacidade precisam ser confirmados antes de qualquer abordagem ou proposta.
+Este documento organiza a arquitetura de ofertas da Eme Creative Hub, estruturada em torno do conceito de **Ativos de Marca** e alinhada à capacidade operacional e às metas comerciais da empresa.
 
 ---
 
-## Princípio Comercial
+## Princípio Comercial Central: Ativos de Marca
 
-A Eme não deve vender “design” como produção isolada. A oferta deve conectar clareza estratégica, percepção de valor e aplicação prática.
+A Eme Creative Hub não entrega apenas peças isoladas de design ou materiais pontuais. A proposta de valor central reside na criação e estruturação de **Ativos de Marca** — soluções estratégicas e visuais desenvolvidas para continuar gerando valor e servindo à empresa cliente no longo prazo.
 
-A venda deve partir do problema observado, não de um pacote rígido. Ainda assim, uma arquitetura clara ajuda o agente a identificar a melhor porta de entrada.
-
----
-
-## 1. Oferta Principal — Sistema de Marca e Presença Digital
-
-- **Nome provisório:** Sistema de Marca e Presença Digital
-- **Status:** hipótese de oferta principal a validar.
-- **Problema resolvido:** empresas que cresceram ou se profissionalizaram, mas ainda possuem posicionamento, identidade, site e materiais abaixo do nível real da operação.
-- **Resultado entregue:** uma presença de marca coerente, profissional e aplicável, capaz de melhorar clareza, confiança e apresentação comercial.
-- **Ticket:** `[DEFINIR COM BASE NO ESCOPO, MARGEM E HISTÓRICO]`
-- **Prazo:** `[DEFINIR POR MODALIDADE]`
-
-### Escopo modular possível
-
-1. Diagnóstico e direção estratégica.
-2. Posicionamento e narrativa da marca.
-3. Identidade visual ou evolução do sistema existente.
-4. Site institucional ou páginas prioritárias.
-5. Apresentação institucional/comercial.
-6. Guia de aplicação.
-7. Desdobramentos essenciais para lançamento.
-
-A proposta não precisa incluir todos os módulos. O diagnóstico deve definir o sistema mínimo necessário.
-
-### Diferenciais
-
-- visão integrada entre marca, site e materiais comerciais;
-- contato direto com o fundador;
-- direção estratégica e execução;
-- atenção a consistência e aplicação;
-- uso pragmático de IA e ferramentas digitais;
-- capacidade de estruturar narrativa, visual e experiência;
-- solução adaptada ao estágio da empresa.
+> *O que construímos não serve apenas para a entrega atual. São ativos de marca que ajudam qualquer agência, profissional ou departamento futuro a compreender, aplicar e evoluir a comunicação da empresa. O objetivo é criar um ecossistema mais claro, universal e fácil de decifrar por qualquer pessoa, em qualquer lugar.*
 
 ---
 
-## 2. Oferta Especializada — Branding e Identidade Visual
+## Arquitetura das Ofertas
 
-- **Problema:** identidade genérica, desatualizada ou incoerente com o posicionamento desejado.
-- **Resultado:** sistema visual proprietário, consistente e aplicável.
-- **Escopo possível:** estratégia, conceito, logotipo, tipografia, cores, elementos, aplicações e guia.
-- **Ticket:** `[DEFINIR]`
-- **Prazo:** `[DEFINIR]`
+### 1. Oferta Principal — Ecossistema de Marca
 
----
-
-## 3. Oferta Especializada — Site Estratégico
-
-- **Problema:** site que não representa a empresa, não explica a oferta ou não sustenta confiança.
-- **Resultado:** presença digital clara, coerente e orientada a posicionamento, descoberta e conversão.
-- **Escopo possível:** arquitetura, copy, interface, páginas, implementação e orientação SEO.
-- **Ticket:** `[DEFINIR]`
-- **Prazo:** `[DEFINIR]`
-
----
-
-## 4. Oferta Especializada — Apresentação Comercial ou Institucional
-
-- **Problema:** materiais que dificultam explicar a empresa, vender projetos ou conquistar parceiros.
-- **Resultado:** narrativa clara e apresentação visualmente profissional.
-- **Escopo possível:** organização do conteúdo, copy, direção visual, design e arquivo editável.
-- **Ticket:** `[DEFINIR]`
-- **Prazo:** `[DEFINIR]`
-
-Essa pode ser uma porta de entrada de menor escopo para empresas B2B.
+- **Nome:** Ecossistema de Marca
+- **Status:** Oferta principal integrada.
+- **Problema resolvido:** Empresas e marcas que cresceram ou se profissionalizaram, mas possuem comunicação fragmentada, posicionamento desalinhado, site antigo ou materiais comerciais abaixo da qualidade real do negócio.
+- **Resultado entregue:** Um ecossistema completo e integrado de ativos de marca (estratégicos, visuais, digitais e comerciais) que padroniza a presença da empresa e facilita a atuação de qualquer equipe futura.
+- **Componentes possíveis do escopo:**
+  1. Diagnóstico e direção estratégica de marca;
+  2. Posicionamento, proposta de valor e narrativa institucional;
+  3. Sistema de identidade visual completo;
+  4. Site institucional ou landing pages estratégicas;
+  5. Decks de apresentação comercial e institucional;
+  6. Posicionamento de conteúdo e linha editorial;
+  7. Guia de ativos de marca e manual de aplicação.
+- **Ticket:** Sob consulta (orientado pelo ticket médio desejado de R$ 2.000 ou superior para escopos integrados).
+- **Prazo estimado:** Entre 1 e 2 meses, com entregas graduais e contínuas por etapas.
 
 ---
 
-## 5. Oferta de Entrada — Análise Pontual de Presença
+### 2. Oferta de Identidade — Sistema de Identidade Visual
 
-- **Nome provisório:** Análise Pontual de Presença
-- **Objetivo:** iniciar conversa a partir de um problema específico e verificável.
-- **Formato recomendado:** observação curta, print comentado ou áudio breve.
-- **Preço:** gratuito apenas quando limitado a um ponto e utilizado como abordagem; diagnóstico completo deve ser pago.
-- **Prazo:** rápido, sem promessa formal de entrega antes de existir abertura.
-- **Limite:** não produzir auditoria extensa para lead frio.
-
-### Evolução possível
-
-Caso haja interesse, converter para um **Diagnóstico Estratégico Pago**, com escopo, análise e recomendações formais.
-
-- **Ticket:** `[DEFINIR]`
-- **Prazo:** `[DEFINIR]`
+- **Nome:** Sistema de Identidade Visual
+- **Problema resolvido:** Identidade visual genérica, obsoleta ou inconsistente com a maturidade e o posicionamento da empresa.
+- **Resultado entregue:** Ativos de identidade proprietários (logotipo, tipografia, paleta de cores, elementos gráficos, moodboards e guia de aplicação) prontos para uso universal em múltiplos canais.
+- **Ticket:** Ticket mínimo de R$ 1.000 (ticket médio desejado de R$ 2.000 dependendo do escopo e desdobramentos).
+- **Prazo estimado:** Aproximadamente 1 mês, com entregas graduais de conceitos e direcionamentos.
 
 ---
 
-## 6. Oferta de Retenção — Direção Criativa Contínua
+### 3. Oferta Digital — Site Estratégico
 
-- **Status:** hipótese a validar.
-- **Problema:** empresas sem liderança criativa interna ou com dificuldade de manter consistência após o projeto.
-- **Resultado:** acompanhamento da evolução visual e dos materiais prioritários.
-- **Formato possível:** pacote mensal de direção, revisão, design prioritário e evolução de ativos.
-- **Ticket mensal:** `[DEFINIR]`
-- **Capacidade disponível:** `[CONFIRMAR]`
-- **Limites:** não transformar o serviço em produção ilimitada.
+- **Nome:** Site Estratégico
+- **Problema resolvido:** Sites desatualizados, confusos, que não comunicam a proposta de valor nem geram credibilidade ou conversão.
+- **Resultado entregue:** Presença digital clara, responsiva e alinhada ao posicionamento, com arquitetura de informação, copy, design de interface, desenvolvimento e orientações de SEO.
+- **Ticket:** Ticket mínimo de R$ 1.000 (com ticket médio desejado de R$ 2.000 para projetos completos).
+- **Prazo estimado:** Aproximadamente 1 mês, com entregas graduais de wireframes, copy e protótipos.
 
 ---
 
-## Portas de Entrada Comerciais
+### 4. Oferta de Conteúdo — Posicionamento, Linha Editorial e Calendário de Conteúdo
 
-1. Apontar uma inconsistência real entre site, identidade, Instagram ou apresentação.
-2. Fazer uma pergunta sobre uma mudança, lançamento ou expansão observada.
-3. Oferecer um print ou comentário curto sobre um ponto específico.
-4. Compartilhar um case realmente relacionado ao contexto do lead.
-5. Comentar uma oportunidade de clareza em uma página ou material.
-6. Responder a uma questão publicada pelo próprio decisor.
-7. Conectar uma dor observada a um aprendizado de projeto semelhante, sem expor informações confidenciais.
-
-Não utilizar “diagnóstico gratuito” como isca genérica.
+- **Nome:** Posicionamento, Linha Editorial e Calendário de Conteúdo
+- **Problema resolvido:** Inconstância na comunicação, falta de clareza sobre o que postar e dificuldade em traduzir os diferenciais da marca em conteúdo relevante.
+- **Resultado entregue:** Estrutura editorial clara, pilares de conteúdo, tom de voz, direcionamento visual e calendário estratégico de social media.
+- **Ticket:** Ticket mínimo de R$ 1.000 / mês ou por escopo entregue (ticket médio de R$ 2.000).
+- **Prazo estimado:** Aproximadamente 1 mês para estruturação e entrega da linha editorial inicial.
 
 ---
 
-## Critérios de Qualificação
+### 5. Oferta Comercial — Apresentações e Documentos de Marca
 
-O lead pode avançar quando houver:
-
-### Aderência
-- problema compatível com as competências da Eme;
-- expectativa de qualidade e estratégia;
-- potencial de projeto com aplicação real.
-
-### Necessidade
-- dor, objetivo ou mudança reconhecida;
-- impacto claro da situação atual;
-- timing razoável.
-
-### Decisão
-- acesso ao decisor ou processo de decisão compreendido;
-- envolvidos identificados;
-- disponibilidade para briefing e validação.
-
-### Capacidade
-- orçamento compatível ou disposição real para compreender investimento;
-- empresa operacional;
-- escopo e prazo compatíveis com a capacidade da Eme.
-
-### Relação
-- comunicação respeitosa;
-- abertura para colaboração;
-- alinhamento mínimo de expectativas.
+- **Nome:** Apresentações e Documentos de Marca
+- **Problema resolvido:** Materiais de venda ou institucionais improvisados que dificultam o fechamento de contratos, a explicação da oferta ou a captação de parceiros.
+- **Resultado entregue:** Decks de apresentação (comerciais ou institucionais), PDFs corporativos, propostas e documentos com narrativa persuasiva e design de alto nível.
+- **Ticket:** A partir do ticket mínimo de R$ 1.000.
+- **Prazo estimado:** 1 a 2 semanas conforme a complexidade e extensão do documento.
 
 ---
 
-## Red Flags
+### 6. Oferta Internacional Assíncrona (Segunda Frente Comercial)
 
-1. Busca exclusiva por menor preço.
-2. Pedido de desconto antes de entender escopo e valor.
-3. Expectativa de copiar concorrente.
-4. Promessa de urgência extrema sem disponibilidade para colaborar.
-5. Ausência de clareza sobre produto, serviço ou decisão.
-6. Expectativa de resultado de vendas garantido pelo design.
-7. Pedido de amostra extensa ou trabalho gratuito.
-8. Mudanças ilimitadas.
-9. Falta de respeito, comunicação confusa ou comportamento manipulativo.
-10. Escopo grande com orçamento incompatível.
-11. Resistência a contrato, prazo, pagamento ou processo.
-12. Histórico de conflito recorrente com todos os fornecedores anteriores.
-
-Red flags não exigem desqualificação automática em todos os casos, mas devem ser registradas e avaliadas.
+- **Nome:** Serviços Assíncronos Internacionais (USD)
+- **Problema resolvido:** Empresas, agências, fundadores e equipes internacionais que necessitam de suporte de design, copy e diagramação com execução autônoma, alta qualidade e comunicação eficiente sem necessidade de calls frequentes.
+- **Serviços inclusos:**
+  - Copywriting em inglês (landing pages, e-mails, documentos);
+  - Design e diagramação de e-books, whitepapers e relatórios;
+  - Apresentações corporativas e pitch decks;
+  - Landing pages e componentes de web design;
+  - Ativos e desdobramentos de identidade visual;
+  - Suporte visual assíncrono para equipes de marketing.
+- **Formato:** Operação 100% assíncrona, baseada em texto, briefs claros e entregas por etapas, cobrada em dólar (USD).
+- **Precificação:** Orçamento em dólar customizado por escopo/job.
 
 ---
 
-## Objeções e Respostas
+## Modelo de Precificação e Pagamento
 
-### “Está muito caro.”
-
-> Entendo. Antes de tentar reduzir o valor, acho importante separar o que é essencial do que pode ficar para uma segunda etapa. O investimento está ligado ao escopo e ao nível de profundidade do projeto. Posso revisar contigo qual seria o sistema mínimo capaz de resolver o problema sem desmontar a qualidade da entrega.
-
-### “Já tenho designer interno ou freelancer.”
-
-> Isso não precisa ser um conflito. Em muitos projetos, a Eme pode atuar na direção, no sistema e nas decisões estruturais, enquanto a equipe interna continua responsável pelos desdobramentos. O ponto é entender se hoje falta capacidade de produção ou uma direção mais consistente.
-
-### “Não tenho tempo para briefing agora.”
-
-> Faz sentido. Um projeto desses precisa de alguma participação, mas o processo pode ser organizado para concentrar decisões em poucos momentos. Antes de avançar, posso te mostrar exatamente o que eu precisaria de vocês e quanto tempo isso tende a exigir.
-
-### “Agora não é prioridade.”
-
-> Sem problema. Para eu não insistir fora de hora: existe algum marco que tornaria isso mais relevante, como lançamento, expansão, nova unidade ou revisão comercial?
-
-### “Só preciso de um logo.”
-
-> Consigo avaliar esse escopo, mas primeiro preciso entender o que o logo deve resolver. Às vezes a necessidade é realmente pontual; em outras, alterar apenas o símbolo mantém os mesmos problemas de posicionamento e aplicação.
+- **Ticket Mínimo Geral:** R$ 1.000 por contrato/projeto.
+- **Ticket Médio Desejado:** R$ 2.000 por cliente.
+- **Projetos Integrados:** Podem superar o valor médio desejado de acordo com a amplitude dos ativos de marca contratados.
+- **Flexibilidade Financeira:** Condições de parcelamento e etapas de pagamento são flexíveis e negociáveis conforme a realidade da negociação.
+- **Formalização Obrigatória:** Toda proposta aceita é respaldada por contrato formal detalhando escopo, prazos, revisões, entregáveis e cronograma de pagamentos. Nenhuma condição financeira especial é prometida antes do envio da proposta oficial.
 
 ---
 
-## Provas e Estudos de Caso
+## Metodologia de Entregas Graduais
 
-Casos conhecidos que podem ser organizados:
+Os projetos da Eme são estruturados em ciclos de entregas graduais. O cliente recebe valor utilizável ao longo do desenvolvimento, sem precisar aguardar a conclusão total do contrato:
 
-### ESNA Engenharia
+1. **Diagnóstico & Direcionamento:** PDF institucional de diagnóstico e briefing estratégico.
+2. **Conceito & Linguagem:** Moodboards, amostras visuais e estrutura de posicionamento.
+3. **Ativos Estruturais:** Logotipo, tipografia, paleta e arquitetura de páginas/slides.
+4. **Aplicação & Entrega Final:** Manual de marca, arquivos finais, site no ar e templates editáveis.
 
-- reposicionamento e identidade para empresa de engenharia integrada;
-- arquitetura de marca e unidades;
-- apresentação institucional/comercial;
-- direção de site e páginas de serviço;
-- construção de linguagem com padrão corporativo e ambição global.
-
-**Resultados quantitativos:** não informados. Não inventar.
-
-### Ortegas FC
-
-- identidade visual para clube de várzea com forte história familiar;
-- desenvolvimento de monograma e aplicações;
-- conexão entre tradição, território e comunidade.
-
-### Dr.Limpow
-
-- desenvolvimento e refinamento de identidade visual;
-- sistema de variações e aplicações;
-- organização de direção visual para serviço de higienização.
-
-### Outros ativos
-
-- sites e páginas de case;
-- apresentações;
-- direção criativa;
-- projetos editoriais e materiais para redes sociais.
-
-Antes do uso comercial, confirmar:
-
-- autorização para citar;
-- imagens disponíveis;
-- escopo exato;
-- depoimentos;
-- resultados;
-- links publicados.
+*Obs:* O cronograma exato varia de acordo com a complexidade do escopo, disponibilidade de resposta do cliente, número de revisões e velocidade de aprovação.
 
 ---
 
-## Informações Pendentes para Precificação
+## Divulgação de Cases Anonimizados e Misteriosos
 
-- ticket mínimo;
-- ticket médio por serviço;
-- margem desejada;
-- horas médias por projeto;
-- capacidade mensal;
-- condições de pagamento;
-- número de revisões;
-- custos de parceiros;
-- política de urgência;
-- escopo padrão e opcional.
+Para preservar a confidencialidade contratual e demonstrar capacidade técnica com sofisticação, as ofertas e portfólios da Eme utilizam **cases anonimizados**:
 
-Nenhum agente deve sugerir preço final sem esses dados ou sem orientação explícita do fundador.
+- **Títulos de Exemplo:**
+  - *"Reposicionamento para uma empresa brasileira de engenharia integrada"*
+  - *"Construção de identidade para um serviço local em expansão"*
+  - *"Sistema visual para uma marca esportiva com legado familiar"*
+  - *"Como organizamos a comunicação de uma empresa B2B complexa"*
+  - *"Um novo ecossistema de marca para uma operação de serviços técnicos"*
+- **Elementos Apresentados:** Desafios de mercado, método aplicado, recortes de grid, trechos de código/design, mockups anonimizados e depoimentos validados sem nome explícito.
+
+---
+
+## Estrutura de Resultados das Ofertas
+
+Ao apresentar o valor das ofertas, o agente comercial deve respeitar rigorosamente as 3 categorias de resultados:
+
+### 1. Resultados Reais Comprovados
+- *Status:* `[AINDA NÃO DOCUMENTADO]`
+
+### 2. Indicadores de Entrega (Métricas Objetivas do Projeto)
+- Número de páginas e componentes digitais criados;
+- Quantidade de ativos reutilizáveis de marca entregues;
+- Número de templates e guias de aplicação fornecidos;
+- Padronização dos pontos de contato da empresa.
+
+### 3. Metas e Hipóteses de Impacto
+*(Sempre identificadas como: `HIPÓTESE DE IMPACTO — NECESSITA VALIDAÇÃO`)*
+- Redução de 30% a 60% no tempo para orientar novos designers ou agências parceiras;
+- Redução de 20% a 50% no retrabalho visual causado por falta de diretrizes;
+- Criação de 5 a 20 ativos de marca reutilizáveis por projeto;
+- Redução de 20% a 40% no tempo de criação de futuros materiais através de templates.
+
+*Proibição Absoluta:* Nunca apresentar promessas de "aumento de X% nas vendas" como resultado garantido.

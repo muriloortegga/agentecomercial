@@ -1,228 +1,110 @@
 # Contexto do ICP — Eme Creative Hub
 
-Este documento apresenta uma hipótese inicial de Perfil de Cliente Ideal. Ele foi construído a partir do histórico disponível da Eme e deve ser validado por pesquisa, prospecção e resultados reais.
+Este documento apresenta a definição dos Perfis de Cliente Ideal (ICP) da Eme Creative Hub, divididos entre a atuação **Nacional** e a frente de **Receita Internacional Assíncrona**.
 
 ---
 
-## Direção Estratégica Inicial
+## Direção Estratégica Geral
 
-A Eme tende a gerar mais valor para negócios que:
-
-- já possuem produto ou serviço validado;
-- entregam com qualidade, mas comunicam abaixo do nível real;
-- dependem de confiança, percepção e apresentação para vender;
-- possuem um decisor acessível;
-- estão passando por crescimento, reposicionamento, expansão ou profissionalização;
-- precisam integrar marca, site, apresentação e materiais comerciais;
-- valorizam solução estratégica, e não apenas execução barata.
+A Eme Creative Hub gera máximo valor para empresas e profissionais que:
+- possuem produto ou serviço validado no mercado;
+- possuem entrega de alta qualidade, mas comunicam visualmente abaixo do nível real da operação;
+- dependem de credibilidade, confiança e excelente apresentação comercial para vender;
+- contam com um decisor acessível (fundador, sócio ou diretor);
+- estão vivenciando reposicionamento, expansão, profissionalização ou lançamento;
+- buscam a construção de **Ativos de Marca** perenes, e não apenas execução rápida e barata de peças isoladas.
 
 ---
 
-## Tier 1 — Alta Prioridade
+## Estrutura de Dois ICPs Distintos
 
-### Empresas B2B de serviços técnicos, profissionais ou especializados
-
-- **Segmentos iniciais para teste:** engenharia, arquitetura, tecnologia B2B, consultorias, serviços corporativos, empresas de manutenção/infraestrutura, automação, imobiliário corporativo e outros negócios com venda consultiva.
-- **Porte:** pequenas e médias empresas já operacionais; hipótese inicial de 5 a 100 colaboradores, sem transformar tamanho em critério absoluto.
-- **Localização:** Brasil, priorizando empresas com operação digital e capacidade de atendimento remoto.
-- **Decisores:** fundador, sócio, CEO, diretor comercial, diretor de marketing, head de marketing ou responsável por marca/comunicação.
-- **Maturidade mínima:**
-  - site ou presença digital ativa;
-  - serviço validado;
-  - clientes reais;
-  - intenção de crescimento;
-  - capacidade aparente de investir;
-  - necessidade de credibilidade comercial.
-
-### Por que este Tier é promissor
-
-Essas empresas frequentemente precisam vender confiança antes da contratação. Identidade, site, apresentação e clareza da oferta podem afetar diretamente percepção, abertura de portas e qualidade das oportunidades.
+Para atender às duas frentes comerciais de crescimento da Eme, definem-se dois perfis de cliente ideal:
 
 ---
 
-## Tier 2 — Média Prioridade
+### ICP 1 — ICP Nacional (Regional e Brasil)
 
-### Marcas de serviços premium e negócios liderados pelo fundador
+- **Foco Regional Prioritário:** Empresas e profissionais situados em **Cotia**, **Vargem Grande Paulista** e na **região oeste do estado de São Paulo**.
+- **Foco Nacional Remoto:** PMEs e marcas em todo o Brasil que operam ou contratam digitalmente.
 
-- **Exemplos:** clínicas e serviços especializados, escritórios, educação premium, consultorias independentes, negócios de bem-estar, serviços locais estruturados e marcas pessoais com oferta validada.
-- **Porte:** fundador com equipe ou parceiros; operação já gerando receita.
-- **Localização:** Brasil, com prioridade para regiões metropolitanas e negócios que atendem digitalmente.
-- **Decisor:** fundador, proprietário ou responsável direto por marketing.
-- **Maturidade:** presença ativa no Instagram, oferta clara, alguma demanda existente e sinais de investimento em crescimento.
+#### Perfil do Cliente Nacional (Tier 1 & Tier 2):
+1. **Empresas B2B de Serviços Técnicos e Especializados (Tier 1 - Alta Prioridade):**
+   - *Segmentos:* Engenharia, arquitetura, tecnologia B2B, consultorias, serviços corporativos, infraestrutura, automação, imobiliário corporativo e negócios de venda consultiva.
+   - *Porte:* Pequenas e médias empresas operacionais (aprox. 5 a 100 colaboradores).
+   - *Decisores:* Fundador, CEO, sócio, diretor comercial ou head de marketing.
+   - *Maturidade:* Empresa gerando receita, com clientes reais e necessidade de elevar a confiança comercial para fechar contratos maiores.
 
-### Observação
+2. **Marcas de Serviços Premium e Negócios do Fundador (Tier 2 - Média Prioridade):**
+   - *Segmentos:* Clínicas especializadas, escritórios, consultorias independentes, educação premium, serviços locais estruturados e marcas pessoais validadas.
+   - *Decisor:* Fundador ou proprietário direto.
 
-Esse grupo pode ser acessível via Instagram, mas tende a apresentar maior variação de ticket e maturidade. Deve ser qualificado com cuidado.
-
----
-
-## Tier 3 — Oportunidades Seletivas
-
-### Projetos culturais, esportivos, autorais e marcas em formação
-
-Abordar apenas quando houver:
-
-- orçamento compatível;
-- potencial estratégico ou de portfólio;
-- conexão relevante;
-- oportunidade de recorrência;
-- clareza de decisão;
-- escopo bem definido.
-
-Não deve consumir a maior parte do esforço outbound inicial.
+#### Dores e Sinais de Necessidade do ICP Nacional:
+- Comunicação visual fraca ou inconsistente entre site, apresentações e redes sociais;
+- Marca que parece menor ou menos profissional do que a qualidade real da operação;
+- Dificuldade do fundador em explicar de forma clara a proposta de valor;
+- Equipe comercial sem materiais institucionais ou propostas padronizadas;
+- Venda dependente apenas de indicações por falta de ativos de marca orgânicos.
 
 ---
 
-## Sinais de Necessidade
+### ICP 2 — ICP Internacional Assíncrono (Dólar / USD)
 
-Priorizar empresas com um ou mais sinais verificáveis:
+- **Foco Geográfico:** Empresas, agências boutique, startups, fundadores e equipes internacionais (EUA, Europa e outros mercados globais) que pagam em dólar (USD).
+- **Formato de Trabalho:** Atuação 100% remota e **assíncrona**.
 
-- identidade visual inconsistente entre canais;
-- marca visualmente inferior à qualidade aparente da operação;
-- site desatualizado, confuso ou pouco convincente;
-- apresentação comercial fraca ou inexistente;
-- expansão para novos serviços, unidades ou mercados;
-- mudança de posicionamento;
-- lançamento de produto;
-- contratação de marketing, vendas ou produto;
-- aumento de investimento em mídia;
-- comunicação fragmentada;
-- dificuldade de explicar diferenciais;
-- materiais comerciais que não acompanham a complexidade da venda;
-- crescimento orgânico sem profissionalização da marca;
-- site sem páginas específicas para serviços importantes;
-- rebranding parcial sem aplicação consistente.
-
-**Regra:** ausência de sinal não prova ausência de necessidade.
+#### Perfil do Cliente Internacional Assíncrono:
+- Fundadores, agências e equipes de marketing que contratam profissionais e estúdios remotos globais;
+- Negócios que valorizam a comunicação assíncrona escrita e processos baseados em documentação;
+- Empresas que necessitam de suporte em:
+  - Copywriting em inglês;
+  - Design e diagramação de relatórios, e-books e PDFs;
+  - Design de apresentações corporativas e pitch decks;
+  - Criação de landing pages e ativos digitais;
+  - Desenvolvimento de identidades visuais e suporte gráfico;
+- Ambientes de trabalho com cultura orientada a briefs claros, autonomia criativa e entregas no prazo, sem reuniões diárias.
 
 ---
 
-## Sinais de Capacidade de Compra
+## Desqualificadores (Red Flags por ICP)
 
-- equipe contratada;
-- operação física ou estrutura profissional;
-- domínio próprio e canais atualizados;
-- investimento em anúncios, eventos, feiras ou expansão;
-- cases, clientes ou contratos relevantes;
-- vagas abertas;
-- presença ativa de decisores;
-- oferta com ticket significativo;
-- expansão geográfica;
-- uso recorrente de fornecedores especializados;
-- histórico de investimento em site, branding ou conteúdo.
+### Desqualificadores Gerais:
+- Busca exclusiva pelo menor preço ou leilão de orçamento;
+- Expectativa de trabalhos gratuitos ou amostras extensas sem contrato;
+- Ausência de decisor acessível ou comunicação desrespeitosa;
+- Recusa em assinar contrato formal de prestação de serviços;
+- Expectativa de que o design isolado seja o único responsável por vendas imediatas.
 
-Nenhum sinal isolado confirma orçamento. O agente deve tratar capacidade como inferência até qualificação direta.
-
----
-
-## Dores Prováveis
-
-1. A empresa cresceu, mas a comunicação não acompanhou.
-2. A marca não transmite a credibilidade necessária para clientes maiores.
-3. Site, Instagram, apresentação e materiais parecem pertencer a empresas diferentes.
-4. O fundador tem dificuldade de explicar claramente a proposta de valor.
-5. A equipe comercial não possui materiais sólidos.
-6. O site existe, mas não apoia a venda nem o posicionamento.
-7. A empresa depende de indicação e não possui ativos de aquisição orgânica.
-8. Há excesso de improviso com freelancers e peças desconectadas.
-9. A identidade é genérica e pouco diferenciada.
-10. A empresa precisa se apresentar melhor para parceiros, investidores, licitações ou grandes contas.
+### Desqualificadores Específicos da Frente Internacional Assíncrona:
+- **Exigência de disponibilidade integral em fuso horário estrangeiro:** Necessidade de estar "de plantão" em chamadas ao vivo durante o horário comercial local deles.
+- **Excesso de reuniões/calls:** Culturas corporativas que exigem chamadas diárias ou reuniões frequentes para alinhar tarefas simples.
+- **Escopo aberto e indefinido:** Clientes que não fornecem briefing e esperam adivinhação sem limites.
+- **Pagamento sem contrato ou garantia prévia:** Recusa em utilizar plataformas seguras ou contratos formais internacionais.
+- **Testes gratuitos extensos:** Pedido de desenvolvimento de peças reais como "teste" de contratação.
+- **Comunicação desorganizada e urgência incompatível:** Fluxos de mensagens caóticos com cobrança de entregas imediatas sem prazo viável.
+- **Expectativa de disponibilidade contínua:** Ausência de limites de horário e desrespeito ao fluxo assíncrono.
 
 ---
 
-## Objetivos Prováveis
+## Priorização e Qualificação de Leads
 
-- parecer tão profissional quanto a operação realmente é;
-- conquistar clientes de maior porte;
-- aumentar confiança e clareza;
-- organizar a marca para crescer;
-- melhorar apresentação comercial;
-- lançar uma nova frente;
-- criar um site que funcione como ativo comercial;
-- padronizar comunicação;
-- elevar percepção sem perder autenticidade;
-- construir autoridade no segmento;
-- facilitar a produção de materiais;
-- reduzir dependência de improviso.
+### Prioridade A (Abordagem Imediata):
+- Empresas com dor visual ou de comunicação claramente identificável;
+- Decisor facilmente acessível;
+- Maturidade de negócio e capacidade financeira alinhada ao ticket médio de R$ 2.000 ou serviços em dólar;
+- Abertura para um modelo de construção de **Ativos de Marca**.
 
----
+### Prioridade B (Pesquisa / Nutrição):
+- Empresas com boa aderência, mas sem sinais imediatos de expansão ou mudança;
+- Manter no radar para momentos de lançamento, eventos ou rebranding.
 
-## Gatilhos de Compra
-
-- nova sociedade ou liderança;
-- aniversário ou marco da empresa;
-- expansão;
-- nova unidade;
-- nova linha de serviço;
-- entrada em mercado corporativo;
-- participação em feira ou evento;
-- lançamento de site ou produto;
-- concorrente reposicionado;
-- contratação de equipe comercial;
-- proposta importante;
-- busca por investimento;
-- percepção explícita de que a marca ficou para trás.
+### Prioridade C (Desqualificar / Arquivar):
+- Negócios em estágio de ideia sem validação, sem orçamento para o ticket mínimo de R$ 1.000 ou com alta resistência a processos formais e assíncronos.
 
 ---
 
-## Desqualificadores
+## Canais de Prospecção Recomendados
 
-- ideia ainda sem operação ou validação;
-- ausência de decisor acessível;
-- busca exclusiva por menor preço;
-- pedido de cópia de concorrente;
-- urgência incompatível com qualidade;
-- ausência de orçamento e expectativa de trabalho gratuito;
-- comportamento desrespeitoso;
-- falta de disponibilidade mínima para briefing e validação;
-- demanda puramente operacional sem valor estratégico e sem margem adequada;
-- histórico evidente de conflito recorrente com fornecedores;
-- expectativa de resultado comercial garantido apenas por design;
-- pedido de volume de peças sem sistema, prioridade ou contexto.
-
----
-
-## Priorização
-
-### Prioridade A
-
-- alta aderência;
-- necessidade verificável;
-- decisor acessível;
-- capacidade aparente;
-- contexto para abordagem genuína;
-- potencial de projeto integrado.
-
-### Prioridade B
-
-- boa aderência, mas timing ou necessidade pouco claros;
-- manter em pesquisa ou nutrição;
-- abordar apenas quando surgir contexto relevante.
-
-### Prioridade C
-
-- baixa aderência, baixo potencial ou alto esforço;
-- não abordar agora;
-- arquivar, desqualificar ou acompanhar passivamente.
-
----
-
-## Canais Recomendados
-
-- **Principal para teste:** Instagram Direct, quando o decisor é ativo e há contexto visual ou conteúdo relevante.
-- **Principal alternativo:** LinkedIn para empresas B2B, decisores corporativos e sinais de expansão.
-- **Secundário:** e-mail personalizado quando houver site, contato profissional e hipótese clara.
-- **WhatsApp:** somente com permissão, relação prévia ou contato disponibilizado para fins comerciais.
-- **SEO e conteúdo:** canais de atração, autoridade e validação que devem operar em conjunto com o outbound.
-
----
-
-## Questões para Validação
-
-- Qual segmento responde com maior qualidade?
-- Quais dores levam a reuniões?
-- Branding, site ou apresentação funciona melhor como porta de entrada?
-- O Instagram alcança decisores B2B com eficiência?
-- Qual porte possui melhor equilíbrio entre orçamento e acessibilidade?
-- Quais sinais realmente indicam timing?
-- Quais projetos geram maior margem e satisfação?
+1. **Instagram Direct:** Para prospecção ativa nacional de marcas de serviço e decisores ativos, a partir de observações pontuais e reais.
+2. **LinkedIn:** Para prospecção B2B nacional e identificação de fundadores/diretores em expansão.
+3. **Plataformas e Redes Internacionais (Assíncrono):** Prospecção direcionada a contratantes internacionais de serviços criativos em dólar (a ser detalhada em missão de pesquisa específica).
+4. **E-mail Direto & Presença Orgânica (SEO):** Para atração passiva e apoio à credibilidade de abordagens ativas.
